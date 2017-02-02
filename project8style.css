@@ -1,0 +1,19 @@
+table{
+    border:  3px inset #652DC1;
+}
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+}
+th {
+    background-color:#95E0E8;
+    color:#3F26BF;
+}
+
+body {
+    font-family: Verdana;
+}
